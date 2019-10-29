@@ -3,7 +3,5 @@ main:
         url: /
     -   name: Catálogo
         url: /catalog/
-    -   name: HackEMTU
-        url: https://hackemtu.com
     -   name: GitHub
-        url: https://github.com/jmfly/hackemtu-data-catalog
+        url: https://github.com/igorsilvagon/radartona

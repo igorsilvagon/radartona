@@ -18,13 +18,13 @@ title: Hackatona de dados de radar
 description: >
     A Radartona é um hackathon voltado para a mobilidade urbana com foco em inovação em transporte público. A realização é da Empresa Metropolitana de Transportes Urbanos de São Paulo (EMTU/SP), da Universidade Estadual de Campinas e da startup Scipopulis
 baseurl: "/radartona" # the subpath of your site, e.g. /blog
-url: "https://igorsilvagon.github.io" # the base hostname & protocol for your site
+url: "https://scipopulis.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: 
 
 
 # libraries

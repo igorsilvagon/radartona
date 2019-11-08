@@ -3,5 +3,9 @@ main:
         url: /
     -   name: Catálogo
         url: /catalog/
+    -   name: Documentação
+        url: https://drive.google.com/file/d/1A_SgH_QZfuaqRzv7U40IWt6RciO4uHrx/view?usp=sharing
+    -   name: Podcast
+        url: https://www.youtube.com/watch?v=3gty-CC9XK8&list=PLFsef2eQzOVMFH7C9vl2RZfNjd3RX7BlO
     -   name: GitHub
         url: https://github.com/igorsilvagon/radartona

@@ -1,7 +1,3 @@
--   name: EMTU
-    slug: emtu
-    icon: bus
-    description: A EMTU disponibiliza os dados operacionais dos ônibus metropolitanos atuantes nas cinco das seis regiões metropolitanas do Estado de São Paulo.  Será distribuido para cada equipe uma senha de acesso aos dados da EMTU.
 -   name: Mobilab
     slug: Mobilab
     icon: flask
@@ -11,12 +7,21 @@
 -   name: SPTrans
     slug: sptrans
     icon: bus
--   name: SEADE
-    slug: seade
-    icon: users
 -   name: Scipopulis
     slug: scipopulis
     icon: server
+-   name: Metrô
+    slug: metro
+    icon: subway
+-   name: Waze
+    slug: waze
+    icon: car
+-   name: Uber
+    slug: uber
+    icon: taxi
+-   name: Clima 
+    slug: clima
+    icon: cloud   
 -   name: Outros
     slug: outros
     icon: archive

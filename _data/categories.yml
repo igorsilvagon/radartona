@@ -2,13 +2,9 @@
     slug: emtu
     icon: bus
     description: A EMTU disponibiliza os dados operacionais dos ônibus metropolitanos atuantes nas cinco das seis regiões metropolitanas do Estado de São Paulo.  Será distribuido para cada equipe uma senha de acesso aos dados da EMTU.
--   name: EMDEC
-    slug: emdec
-    icon: pencil-square-o
-    description: Dados EMDEC
--   name: Unicamp
-    slug: unicamp
-    icon: graduation-cap
+-   name: Mobilab
+    slug: Mobilab
+    icon: flask
 -   name: Prefeitura SP
     slug: prefeiturasp
     icon: university
